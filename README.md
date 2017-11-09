@@ -1,0 +1,1 @@
+# react-reduc-initial-structure
